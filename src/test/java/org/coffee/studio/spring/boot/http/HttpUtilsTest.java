@@ -1,6 +1,5 @@
 package org.coffee.studio.spring.boot.http;
 
-import org.coffee.studio.spring.boot.Application;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
